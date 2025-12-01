@@ -2,7 +2,7 @@
 
 // Configuration
 const CONFIG = {
-    BASE_URL: "https://aparcar.org/openwrt-tests",
+    BASE_URL: "https://a-gave.github.io/openwrt-tests",
     REFRESH_INTERVAL: 300000, // 5 minutes
 };
 
